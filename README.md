@@ -27,12 +27,13 @@
 ##  GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doesDeveloper&theme=github_dark" alt="Profile Details" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doesDeveloper&theme=github_dark&exclude=bat,html,css" alt="Languages" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doesDeveloper&theme=github_dark" alt="Stats" />
+    <a href="https://github.com/doesDeveloper?tab=repositories">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doesDeveloper&theme=github_dark" alt="Profile Details" />
+        <br/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doesDeveloper&theme=github_dark&exclude=bat,html,css" alt="Languages" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doesDeveloper&theme=github_dark" alt="Stats" />
+    </a>
 </div>
-
 ---
 
 ##  Featured  Build
